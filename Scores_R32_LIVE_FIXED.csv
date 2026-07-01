@@ -1,0 +1,105 @@
+﻿Match,Date,Time SAST,Stage,Team A,Team B,Owner A,Owner B,Office Matchup,Score A,Score B,Winner,Status,Notes
+1,2026-06-11,15:00,Group A,Mexico,South Africa,Gabi,Vilen,Gabi vs Vilen,2,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+2,2026-06-11,22:00,Group A,South Korea,Czechia,Kay,Sarita,Kay vs Sarita,2,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+3,2026-06-12,15:00,Group B,Canada,Bosnia and Herzegovina,Mendy,Niki,Mendy vs Niki,1,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+4,2026-06-12,21:00,Group D,United States,Paraguay,Sarita,David,Sarita vs David,4,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+5,2026-06-13,21:00,Group C,Haiti,Scotland,Thabi,Manners,Thabi vs Manners,0,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+6,2026-06-13,00:00,Group D,Australia,Türkiye,Monnis,Patrick,Monnis vs Patrick,2,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+7,2026-06-13,18:00,Group C,Brazil,Morocco,Manners,Bianca,Manners vs Bianca,1,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+8,2026-06-13,15:00,Group B,Qatar,Switzerland,Patrick,Vilen,Patrick vs Vilen,1,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+9,2026-06-14,19:00,Group E,Côte d'Ivoire,Ecuador,Venolia,Fanie,Venolia vs Fanie,1,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+10,2026-06-14,13:00,Group E,Germany,Curaçao,Thabo,Gabi,Thabo vs Gabi,7,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+11,2026-06-14,16:00,Group F,Netherlands,Japan,Phumla,Gareth,Phumla vs Gareth,2,2,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+12,2026-06-14,22:00,Group F,Sweden,Tunisia,Thabo,Bianca,Thabo vs Bianca,5,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+13,2026-06-15,18:00,Group H,Saudi Arabia,Uruguay,Phumla,Daniel,Phumla vs Daniel,1,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+14,2026-06-15,12:00,Group H,Spain,Cabo Verde,Thabi,Keagan B,Thabi vs Keagan B,0,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+15,2026-06-15,21:00,Group G,Iran,New Zealand,Bongi,Daniel,Bongi vs Daniel,2,2,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+16,2026-06-15,15:00,Group G,Belgium,Egypt,Monnis,Fanie,Monnis vs Fanie,1,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+17,2026-06-16,15:00,Group I,France,Senegal,David,Niki,David vs Niki,3,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+18,2026-06-16,18:00,Group I,Iraq,Norway,Keagan T,JoJo,Keagan T vs JoJo,1,4,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+19,2026-06-16,21:00,Group J,Argentina,Algeria,Keagan T,Venolia,Keagan T vs Venolia,3,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+20,2026-06-16,00:00,Group J,Austria,Jordan,Chelizia,Gareth,Chelizia vs Gareth,3,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+21,2026-06-17,19:00,Group L,Ghana,Panama,Kay,Chelizia,Kay vs Chelizia,1,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+22,2026-06-17,16:00,Group L,England,Croatia,Mendy,Sims,Mendy vs Sims,4,2,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+23,2026-06-17,13:00,Group K,Portugal,Congo DR,Keagan B,JoJo,Keagan B vs JoJo,1,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+24,2026-06-17,22:00,Group K,Uzbekistan,Colombia,Sims,Bongi,Sims vs Bongi,1,3,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+25,2026-06-18,12:00,Group A,Czechia,South Africa,Sarita,Vilen,Sarita vs Vilen,1,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+26,2026-06-18,15:00,Group B,Switzerland,Bosnia and Herzegovina,Vilen,Niki,Vilen vs Niki,4,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+27,2026-06-18,18:00,Group B,Canada,Qatar,Mendy,Patrick,Mendy vs Patrick,6,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+28,2026-06-18,21:00,Group A,Mexico,South Korea,Gabi,Kay,Gabi vs Kay,1,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+29,2026-06-19,21:00,Group C,Brazil,Haiti,Manners,Thabi,Manners vs Thabi,3,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+30,2026-06-19,18:00,Group C,Scotland,Morocco,Manners,Bianca,Manners vs Bianca,0,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+31,2026-06-19,23:00,Group D,Türkiye,Paraguay,Patrick,David,Patrick vs David,0,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+32,2026-06-19,15:00,Group D,United States,Australia,Sarita,Monnis,Sarita vs Monnis,2,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+33,2026-06-20,16:00,Group E,Germany,Côte d'Ivoire,Thabo,Venolia,Thabo vs Venolia,2,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+34,2026-06-20,20:00,Group E,Ecuador,Curaçao,Fanie,Gabi,Fanie vs Gabi,0,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+35,2026-06-20,13:00,Group F,Netherlands,Sweden,Phumla,Thabo,Phumla vs Thabo,5,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+36,2026-06-20,00:00,Group F,Tunisia,Japan,Bianca,Gareth,Bianca vs Gareth,0,4,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+37,2026-06-21,18:00,Group H,Uruguay,Cabo Verde,Daniel,Keagan B,Daniel vs Keagan B,2,2,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+38,2026-06-21,12:00,Group H,Spain,Saudi Arabia,Thabi,Phumla,Thabi vs Phumla,4,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+39,2026-06-21,15:00,Group G,Belgium,Iran,Monnis,Bongi,Monnis vs Bongi,0,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+40,2026-06-21,21:00,Group G,New Zealand,Egypt,Daniel,Fanie,Daniel vs Fanie,1,3,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+41,2026-06-22,20:00,Group I,Norway,Senegal,JoJo,Niki,JoJo vs Niki,3,2,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+42,2026-06-22,17:00,Group I,France,Iraq,David,Keagan T,David vs Keagan T,3,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+43,2026-06-22,13:00,Group J,Argentina,Austria,Keagan T,Chelizia,Keagan T vs Chelizia,2,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+44,2026-06-22,23:00,Group J,Jordan,Algeria,Gareth,Venolia,Gareth vs Venolia,1,2,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+45,2026-06-23,16:00,Group L,England,Ghana,Mendy,Kay,Mendy vs Kay,0,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+46,2026-06-23,19:00,Group L,Panama,Croatia,Chelizia,Sims,Chelizia vs Sims,0,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+47,2026-06-23,13:00,Group K,Portugal,Uzbekistan,Keagan B,Sims,Keagan B vs Sims,5,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+48,2026-06-23,22:00,Group K,Colombia,Congo DR,Bongi,JoJo,Bongi vs JoJo,1,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+49,2026-06-24,18:00,Group C,Scotland,Brazil,Manners,Manners,Manners vs Manners,0,3,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+50,2026-06-24,18:00,Group C,Morocco,Haiti,Bianca,Thabi,Bianca vs Thabi,4,2,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+51,2026-06-24,15:00,Group B,Switzerland,Canada,Vilen,Mendy,Vilen vs Mendy,2,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+52,2026-06-24,15:00,Group B,Bosnia and Herzegovina,Qatar,Niki,Patrick,Niki vs Patrick,3,1,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+53,2026-06-24,21:00,Group A,Czechia,Mexico,Sarita,Gabi,Sarita vs Gabi,0,3,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+54,2026-06-24,21:00,Group A,South Africa,South Korea,Vilen,Kay,Vilen vs Kay,1,0,,Final,Result populated from current World Cup results snapshot; penalties noted in Winner where applicable.
+55,2026-06-25,16:00,Group E,Curaçao,Côte d'Ivoire,Gabi,Venolia,Gabi vs Venolia,,,,Not Played,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+56,2026-06-25,16:00,Group E,Ecuador,Germany,Fanie,Thabo,Fanie vs Thabo,,,,Not Played,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+57,2026-06-25,19:00,Group F,Japan,Sweden,Gareth,Thabo,Gareth vs Thabo,,,,Not Played,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+58,2026-06-25,19:00,Group F,Tunisia,Netherlands,Bianca,Phumla,Bianca vs Phumla,,,,Not Played,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+59,2026-06-25,22:00,Group D,Türkiye,United States,Patrick,Sarita,Patrick vs Sarita,,,,Not Played,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+60,2026-06-25,22:00,Group D,Paraguay,Australia,David,Monnis,David vs Monnis,,,,Not Played,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+61,2026-06-26,15:00,Group I,Norway,France,JoJo,David,JoJo vs David,1,4,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures.
+62,2026-06-26,15:00,Group I,Senegal,Iraq,Niki,Keagan T,Niki vs Keagan T,5,0,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures.
+63,2026-06-26,23:00,Group G,Egypt,Iran,Fanie,Bongi,Fanie vs Bongi,1,5,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures.
+64,2026-06-26,23:00,Group G,New Zealand,Belgium,Daniel,Monnis,Daniel vs Monnis,1,1,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures.
+65,2026-06-26,20:00,Group H,Cabo Verde,Saudi Arabia,Keagan B,Phumla,Keagan B vs Phumla,0,0,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures.
+66,2026-06-26,20:00,Group H,Uruguay,Spain,Daniel,Thabi,Daniel vs Thabi,0,1,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures.
+67,2026-06-27,17:00,Group L,Panama,England,Chelizia,Mendy,Chelizia vs Mendy,0,2,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures.
+68,2026-06-27,17:00,Group L,Croatia,Ghana,Sims,Kay,Sims vs Kay,2,1,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures.
+69,2026-06-27,22:00,Group J,Algeria,Austria,Venolia,Chelizia,Venolia vs Chelizia,3,3,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures.
+70,2026-06-27,22:00,Group J,Jordan,Argentina,Gareth,Keagan T,Gareth vs Keagan T,1,3,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures.
+71,2026-06-27,19:30,Group K,Colombia,Portugal,Bongi,Keagan B,Bongi vs Keagan B,0,0,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures.
+72,2026-06-27,19:30,Group K,Congo DR,Uzbekistan,JoJo,Sims,JoJo vs Sims,3,1,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures.
+73,2026-06-28,21:00,Round of 32,South Africa,Canada,Vilen,Mendy,Vilen vs Mendy,0,1,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures. | Advances: Canada
+74,2026-06-29,22:30,Round of 32,Germany,Paraguay,Thabo,David,Thabo vs David,1,1,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures. | Advances: Paraguay
+75,2026-06-30,03:00,Round of 32,Netherlands,Morocco,Phumla,Bianca,Phumla vs Bianca,1,1,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures. | Advances: Morocco
+76,2026-06-29,19:00,Round of 32,Brazil,Japan,Manners,Gareth,Manners vs Gareth,2,1,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures. | Advances: Brazil
+77,2026-06-30,22:00,Round of 32,France,Sweden,David,Thabo,David vs Thabo,3,0,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures. | Advances: France
+78,2026-06-30,18:00,Round of 32,Côte d'Ivoire,Norway,Venolia,JoJo,Venolia vs JoJo,1,2,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures. | Advances: Norway
+79,2026-07-01,03:00,Round of 32,Mexico,Ecuador,Gabi,Fanie,Gabi vs Fanie,2,0,,Final,Past result populated so dashboard can move to the next Round of 32 fixtures. | Advances: Mexico
+80,2026-07-01,18:00,Round of 32,England,Congo DR,Mendy,JoJo,Mendy vs JoJo,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+81,2026-07-02,02:00,Round of 32,United States,Bosnia and Herzegovina,Sarita,Niki,Sarita vs Niki,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+82,2026-07-01,22:00,Round of 32,Belgium,Senegal,Monnis,Niki,Monnis vs Niki,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+83,2026-07-03,01:00,Round of 32,Portugal,Croatia,Keagan B,Sims,Keagan B vs Sims,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+84,2026-07-02,21:00,Round of 32,Spain,Austria,Thabi,Chelizia,Thabi vs Chelizia,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+85,2026-07-03,05:00,Round of 32,Switzerland,Algeria,Vilen,Venolia,Vilen vs Venolia,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+86,2026-07-04,00:00,Round of 32,Argentina,Cabo Verde,Keagan T,Keagan B,Keagan T vs Keagan B,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+87,2026-07-04,01:30,Round of 32,Colombia,Ghana,Bongi,Kay,Bongi vs Kay,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+88,2026-07-03,20:00,Round of 32,Australia,Egypt,Monnis,Fanie,Monnis vs Fanie,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+89,2026-07-04,17:00,Round of 16,Paraguay,France,David,David,David vs David,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+90,2026-07-04,21:00,Round of 16,Canada,Morocco,Mendy,Bianca,Mendy vs Bianca,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+91,2026-07-06,00:00,Round of 16,Brazil,Norway,Manners,JoJo,Manners vs JoJo,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+92,2026-07-06,00:00,Round of 16,Mexico,Match 80 Winner,Gabi,,Gabi vs Match 80 Winner,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+93,2026-07-07,00:00,Round of 16,Match 83 Winner,Match 84 Winner,,,TBC,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+94,2026-07-07,00:00,Round of 16,Match 81 Winner,Match 82 Winner,,,TBC,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+95,2026-07-07,18:00,Round of 16,Match 86 Winner,Match 88 Winner,,,TBC,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+96,2026-07-07,22:00,Round of 16,Match 85 Winner,Match 87 Winner,,,TBC,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+97,2026-07-09,20:00,Quarter-finals,Match 89 Winner,Match 90 Winner,,,TBC,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+98,2026-07-10,19:00,Quarter-finals,Match 93 Winner,Match 94 Winner,,,TBC,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+99,2026-07-11,21:00,Quarter-finals,Match 91 Winner,Match 92 Winner,,,TBC,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+100,2026-07-12,01:00,Quarter-finals,Match 95 Winner,Match 96 Winner,,,TBC,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+101,2026-07-14,19:00,Semi-finals,Match 97 Winner,Match 98 Winner,,,TBC,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+102,2026-07-15,19:00,Semi-finals,Match 99 Winner,Match 100 Winner,,,TBC,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+103,2026-07-18,21:00,Third Place,Match 101 Loser,Match 102 Loser,,,TBC,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+104,2026-07-19,21:00,Final,Match 101 Winner,Match 102 Winner,,,TBC,,,,Not Played,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.

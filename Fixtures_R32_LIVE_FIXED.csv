@@ -1,0 +1,105 @@
+﻿Match,Date,Time SAST,Stage,Group,Team A,Team B,Owner A,Owner B,Office Matchup,Venue,City,Source/Notes
+1,2026-06-11,15:00,Group A,A,Mexico,South Africa,Gabi,Vilen,Gabi vs Vilen,Estadio Azteca,Mexico City,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+2,2026-06-11,22:00,Group A,A,South Korea,Czechia,Kay,Sarita,Kay vs Sarita,Estadio Akron,Guadalajara,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+3,2026-06-12,15:00,Group B,B,Canada,Bosnia and Herzegovina,Mendy,Niki,Mendy vs Niki,BMO Field,Toronto,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+4,2026-06-12,21:00,Group D,D,United States,Paraguay,Sarita,David,Sarita vs David,SoFi Stadium,Los Angeles,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+5,2026-06-13,21:00,Group C,C,Haiti,Scotland,Thabi,Manners,Thabi vs Manners,Gillette Stadium,Boston,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+6,2026-06-13,00:00,Group D,D,Australia,Türkiye,Monnis,Patrick,Monnis vs Patrick,BC Place,Vancouver,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+7,2026-06-13,18:00,Group C,C,Brazil,Morocco,Manners,Bianca,Manners vs Bianca,MetLife Stadium,New York/New Jersey,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+8,2026-06-13,15:00,Group B,B,Qatar,Switzerland,Patrick,Vilen,Patrick vs Vilen,Levi's Stadium,San Francisco Bay Area,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+9,2026-06-14,19:00,Group E,E,Côte d'Ivoire,Ecuador,Venolia,Fanie,Venolia vs Fanie,Lincoln Financial Field,Philadelphia,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+10,2026-06-14,13:00,Group E,E,Germany,Curaçao,Thabo,Gabi,Thabo vs Gabi,NRG Stadium,Houston,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+11,2026-06-14,16:00,Group F,F,Netherlands,Japan,Phumla,Gareth,Phumla vs Gareth,AT&T Stadium,Dallas,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+12,2026-06-14,22:00,Group F,F,Sweden,Tunisia,Thabo,Bianca,Thabo vs Bianca,Estadio BBVA,Monterrey,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+13,2026-06-15,18:00,Group H,H,Saudi Arabia,Uruguay,Phumla,Daniel,Phumla vs Daniel,Hard Rock Stadium,Miami,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+14,2026-06-15,12:00,Group H,H,Spain,Cabo Verde,Thabi,Keagan B,Thabi vs Keagan B,Mercedes-Benz Stadium,Atlanta,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+15,2026-06-15,21:00,Group G,G,Iran,New Zealand,Bongi,Daniel,Bongi vs Daniel,SoFi Stadium,Los Angeles,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+16,2026-06-15,15:00,Group G,G,Belgium,Egypt,Monnis,Fanie,Monnis vs Fanie,Lumen Field,Seattle,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+17,2026-06-16,15:00,Group I,I,France,Senegal,David,Niki,David vs Niki,MetLife Stadium,New York/New Jersey,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+18,2026-06-16,18:00,Group I,I,Iraq,Norway,Keagan T,JoJo,Keagan T vs JoJo,Gillette Stadium,Boston,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+19,2026-06-16,21:00,Group J,J,Argentina,Algeria,Keagan T,Venolia,Keagan T vs Venolia,Arrowhead Stadium,Kansas City,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+20,2026-06-16,00:00,Group J,J,Austria,Jordan,Chelizia,Gareth,Chelizia vs Gareth,Levi's Stadium,San Francisco Bay Area,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+21,2026-06-17,19:00,Group L,L,Ghana,Panama,Kay,Chelizia,Kay vs Chelizia,BMO Field,Toronto,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+22,2026-06-17,16:00,Group L,L,England,Croatia,Mendy,Sims,Mendy vs Sims,AT&T Stadium,Dallas,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+23,2026-06-17,13:00,Group K,K,Portugal,Congo DR,Keagan B,JoJo,Keagan B vs JoJo,NRG Stadium,Houston,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+24,2026-06-17,22:00,Group K,K,Uzbekistan,Colombia,Sims,Bongi,Sims vs Bongi,Estadio Azteca,Mexico City,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+25,2026-06-18,12:00,Group A,A,Czechia,South Africa,Sarita,Vilen,Sarita vs Vilen,Mercedes-Benz Stadium,Atlanta,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+26,2026-06-18,15:00,Group B,B,Switzerland,Bosnia and Herzegovina,Vilen,Niki,Vilen vs Niki,SoFi Stadium,Los Angeles,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+27,2026-06-18,18:00,Group B,B,Canada,Qatar,Mendy,Patrick,Mendy vs Patrick,BC Place,Vancouver,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+28,2026-06-18,21:00,Group A,A,Mexico,South Korea,Gabi,Kay,Gabi vs Kay,Estadio Akron,Guadalajara,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+29,2026-06-19,21:00,Group C,C,Brazil,Haiti,Manners,Thabi,Manners vs Thabi,Lincoln Financial Field,Philadelphia,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+30,2026-06-19,18:00,Group C,C,Scotland,Morocco,Manners,Bianca,Manners vs Bianca,Gillette Stadium,Boston,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+31,2026-06-19,23:00,Group D,D,Türkiye,Paraguay,Patrick,David,Patrick vs David,Levi's Stadium,San Francisco Bay Area,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+32,2026-06-19,15:00,Group D,D,United States,Australia,Sarita,Monnis,Sarita vs Monnis,Lumen Field,Seattle,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+33,2026-06-20,16:00,Group E,E,Germany,Côte d'Ivoire,Thabo,Venolia,Thabo vs Venolia,BMO Field,Toronto,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+34,2026-06-20,20:00,Group E,E,Ecuador,Curaçao,Fanie,Gabi,Fanie vs Gabi,Arrowhead Stadium,Kansas City,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+35,2026-06-20,13:00,Group F,F,Netherlands,Sweden,Phumla,Thabo,Phumla vs Thabo,NRG Stadium,Houston,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+36,2026-06-20,00:00,Group F,F,Tunisia,Japan,Bianca,Gareth,Bianca vs Gareth,Estadio BBVA,Monterrey,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+37,2026-06-21,18:00,Group H,H,Uruguay,Cabo Verde,Daniel,Keagan B,Daniel vs Keagan B,Hard Rock Stadium,Miami,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+38,2026-06-21,12:00,Group H,H,Spain,Saudi Arabia,Thabi,Phumla,Thabi vs Phumla,Mercedes-Benz Stadium,Atlanta,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+39,2026-06-21,15:00,Group G,G,Belgium,Iran,Monnis,Bongi,Monnis vs Bongi,SoFi Stadium,Los Angeles,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+40,2026-06-21,21:00,Group G,G,New Zealand,Egypt,Daniel,Fanie,Daniel vs Fanie,BC Place,Vancouver,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+41,2026-06-22,20:00,Group I,I,Norway,Senegal,JoJo,Niki,JoJo vs Niki,MetLife Stadium,New York/New Jersey,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+42,2026-06-22,17:00,Group I,I,France,Iraq,David,Keagan T,David vs Keagan T,Lincoln Financial Field,Philadelphia,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+43,2026-06-22,13:00,Group J,J,Argentina,Austria,Keagan T,Chelizia,Keagan T vs Chelizia,AT&T Stadium,Dallas,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+44,2026-06-22,23:00,Group J,J,Jordan,Algeria,Gareth,Venolia,Gareth vs Venolia,Levi's Stadium,San Francisco Bay Area,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+45,2026-06-23,16:00,Group L,L,England,Ghana,Mendy,Kay,Mendy vs Kay,Gillette Stadium,Boston,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+46,2026-06-23,19:00,Group L,L,Panama,Croatia,Chelizia,Sims,Chelizia vs Sims,BMO Field,Toronto,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+47,2026-06-23,13:00,Group K,K,Portugal,Uzbekistan,Keagan B,Sims,Keagan B vs Sims,NRG Stadium,Houston,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+48,2026-06-23,22:00,Group K,K,Colombia,Congo DR,Bongi,JoJo,Bongi vs JoJo,Estadio Akron,Guadalajara,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+49,2026-06-24,18:00,Group C,C,Scotland,Brazil,Manners,Manners,Manners vs Manners,Hard Rock Stadium,Miami,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+50,2026-06-24,18:00,Group C,C,Morocco,Haiti,Bianca,Thabi,Bianca vs Thabi,Mercedes-Benz Stadium,Atlanta,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+51,2026-06-24,15:00,Group B,B,Switzerland,Canada,Vilen,Mendy,Vilen vs Mendy,BC Place,Vancouver,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+52,2026-06-24,15:00,Group B,B,Bosnia and Herzegovina,Qatar,Niki,Patrick,Niki vs Patrick,Lumen Field,Seattle,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+53,2026-06-24,21:00,Group A,A,Czechia,Mexico,Sarita,Gabi,Sarita vs Gabi,Estadio Azteca,Mexico City,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+54,2026-06-24,21:00,Group A,A,South Africa,South Korea,Vilen,Kay,Vilen vs Kay,Estadio BBVA,Monterrey,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+55,2026-06-25,16:00,Group E,E,Curaçao,Côte d'Ivoire,Gabi,Venolia,Gabi vs Venolia,Lincoln Financial Field,Philadelphia,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+56,2026-06-25,16:00,Group E,E,Ecuador,Germany,Fanie,Thabo,Fanie vs Thabo,MetLife Stadium,New York/New Jersey,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+57,2026-06-25,19:00,Group F,F,Japan,Sweden,Gareth,Thabo,Gareth vs Thabo,AT&T Stadium,Dallas,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+58,2026-06-25,19:00,Group F,F,Tunisia,Netherlands,Bianca,Phumla,Bianca vs Phumla,Arrowhead Stadium,Kansas City,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+59,2026-06-25,22:00,Group D,D,Türkiye,United States,Patrick,Sarita,Patrick vs Sarita,SoFi Stadium,Los Angeles,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+60,2026-06-25,22:00,Group D,D,Paraguay,Australia,David,Monnis,David vs Monnis,Levi's Stadium,San Francisco Bay Area,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+61,2026-06-26,15:00,Group I,I,Norway,France,JoJo,David,JoJo vs David,Gillette Stadium,Boston,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+62,2026-06-26,15:00,Group I,I,Senegal,Iraq,Niki,Keagan T,Niki vs Keagan T,BMO Field,Toronto,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+63,2026-06-26,23:00,Group G,G,Egypt,Iran,Fanie,Bongi,Fanie vs Bongi,Lumen Field,Seattle,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+64,2026-06-26,23:00,Group G,G,New Zealand,Belgium,Daniel,Monnis,Daniel vs Monnis,BC Place,Vancouver,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+65,2026-06-26,20:00,Group H,H,Cabo Verde,Saudi Arabia,Keagan B,Phumla,Keagan B vs Phumla,NRG Stadium,Houston,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+66,2026-06-26,20:00,Group H,H,Uruguay,Spain,Daniel,Thabi,Daniel vs Thabi,Estadio Akron,Guadalajara,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+67,2026-06-27,17:00,Group L,L,Panama,England,Chelizia,Mendy,Chelizia vs Mendy,MetLife Stadium,New York/New Jersey,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+68,2026-06-27,17:00,Group L,L,Croatia,Ghana,Sims,Kay,Sims vs Kay,Lincoln Financial Field,Philadelphia,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+69,2026-06-27,22:00,Group J,J,Algeria,Austria,Venolia,Chelizia,Venolia vs Chelizia,Arrowhead Stadium,Kansas City,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+70,2026-06-27,22:00,Group J,J,Jordan,Argentina,Gareth,Keagan T,Gareth vs Keagan T,AT&T Stadium,Dallas,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+71,2026-06-27,19:30,Group K,K,Colombia,Portugal,Bongi,Keagan B,Bongi vs Keagan B,Hard Rock Stadium,Miami,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+72,2026-06-27,19:30,Group K,K,Congo DR,Uzbekistan,JoJo,Sims,JoJo vs Sims,Mercedes-Benz Stadium,Atlanta,FIFA/SuperSport/ESPN fixture schedule; verify times before match day
+73,2026-06-28,21:00,Round of 32,,South Africa,Canada,Vilen,Mendy,Vilen vs Mendy,SoFi Stadium,Los Angeles,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+74,2026-06-29,22:30,Round of 32,,Germany,Paraguay,Thabo,David,Thabo vs David,Gillette Stadium,Boston,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+75,2026-06-30,03:00,Round of 32,,Netherlands,Morocco,Phumla,Bianca,Phumla vs Bianca,Estadio BBVA,Monterrey,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+76,2026-06-29,19:00,Round of 32,,Brazil,Japan,Manners,Gareth,Manners vs Gareth,NRG Stadium,Houston,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+77,2026-06-30,22:00,Round of 32,,France,Sweden,David,Thabo,David vs Thabo,MetLife Stadium,New York/New Jersey,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+78,2026-06-30,18:00,Round of 32,,Côte d'Ivoire,Norway,Venolia,JoJo,Venolia vs JoJo,AT&T Stadium,Dallas,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+79,2026-07-01,03:00,Round of 32,,Mexico,Ecuador,Gabi,Fanie,Gabi vs Fanie,Estadio Azteca,Mexico City,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+80,2026-07-01,18:00,Round of 32,,England,Congo DR,Mendy,JoJo,Mendy vs JoJo,Mercedes-Benz Stadium,Atlanta,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+81,2026-07-02,02:00,Round of 32,,United States,Bosnia and Herzegovina,Sarita,Niki,Sarita vs Niki,Levi's Stadium,San Francisco Bay Area,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+82,2026-07-01,22:00,Round of 32,,Belgium,Senegal,Monnis,Niki,Monnis vs Niki,Lumen Field,Seattle,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+83,2026-07-03,01:00,Round of 32,,Portugal,Croatia,Keagan B,Sims,Keagan B vs Sims,BMO Field,Toronto,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+84,2026-07-02,21:00,Round of 32,,Spain,Austria,Thabi,Chelizia,Thabi vs Chelizia,SoFi Stadium,Los Angeles,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+85,2026-07-03,05:00,Round of 32,,Switzerland,Algeria,Vilen,Venolia,Vilen vs Venolia,BC Place,Vancouver,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+86,2026-07-04,00:00,Round of 32,,Argentina,Cabo Verde,Keagan T,Keagan B,Keagan T vs Keagan B,Hard Rock Stadium,Miami,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+87,2026-07-04,01:30,Round of 32,,Colombia,Ghana,Bongi,Kay,Bongi vs Kay,Arrowhead Stadium,Kansas City,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+88,2026-07-03,20:00,Round of 32,,Australia,Egypt,Monnis,Fanie,Monnis vs Fanie,AT&T Stadium,Dallas,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+89,2026-07-04,17:00,Round of 16,,Paraguay,France,David,David,David vs David,NRG Stadium,Houston,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+90,2026-07-04,21:00,Round of 16,,Canada,Morocco,Mendy,Bianca,Mendy vs Bianca,Lincoln Financial Field,Philadelphia,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+91,2026-07-06,00:00,Round of 16,,Brazil,Norway,Manners,JoJo,Manners vs JoJo,Estadio Azteca,Mexico City,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+92,2026-07-06,00:00,Round of 16,,Mexico,Match 80 Winner,Gabi,,Gabi vs Match 80 Winner,Estadio Azteca,Mexico City,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+93,2026-07-07,00:00,Round of 16,,Match 83 Winner,Match 84 Winner,,,TBC,Lumen Field,Seattle,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+94,2026-07-07,00:00,Round of 16,,Match 81 Winner,Match 82 Winner,,,TBC,Lumen Field,Seattle,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+95,2026-07-07,18:00,Round of 16,,Match 86 Winner,Match 88 Winner,,,TBC,Mercedes-Benz Stadium,Atlanta,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+96,2026-07-07,22:00,Round of 16,,Match 85 Winner,Match 87 Winner,,,TBC,BC Place,Vancouver,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+97,2026-07-09,20:00,Quarter-finals,,Match 89 Winner,Match 90 Winner,,,TBC,Gillette Stadium,Boston,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+98,2026-07-10,19:00,Quarter-finals,,Match 93 Winner,Match 94 Winner,,,TBC,SoFi Stadium,Los Angeles,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+99,2026-07-11,21:00,Quarter-finals,,Match 91 Winner,Match 92 Winner,,,TBC,Hard Rock Stadium,Miami,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+100,2026-07-12,01:00,Quarter-finals,,Match 95 Winner,Match 96 Winner,,,TBC,Arrowhead Stadium,Kansas City,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+101,2026-07-14,19:00,Semi-finals,,Match 97 Winner,Match 98 Winner,,,TBC,AT&T Stadium,Dallas,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+102,2026-07-15,19:00,Semi-finals,,Match 99 Winner,Match 100 Winner,,,TBC,Mercedes-Benz Stadium,Atlanta,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+103,2026-07-18,21:00,Third Place,,Match 101 Loser,Match 102 Loser,,,TBC,Hard Rock Stadium,Miami,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
+104,2026-07-19,21:00,Final,,Match 101 Winner,Match 102 Winner,,,TBC,MetLife Stadium,New York/New Jersey,Updated knockout fixture from FIFA/SuperSport listings; times shown in South African time (SAST). TBD slots update as matches are confirmed.
